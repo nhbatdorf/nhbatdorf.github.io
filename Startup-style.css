@@ -1,0 +1,19 @@
+body {
+	background-image: url(header.jpg);
+	background-size: cover;
+}
+
+.text {
+	text-align: center;
+	font-family: fantasy;
+	color: white;
+	float: center;
+}
+
+
+button {
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+	background-color: orange;
+}
